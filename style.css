@@ -74,11 +74,6 @@ header {
 	justify-content: space-between;
 }
 
-nav {
-	position: absolute;
-	top: 110px;
-	right: 0;
-}
 
 nav li {
 	display: inline;
