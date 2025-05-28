@@ -11,6 +11,10 @@ body {
 	padding: 30px;
 }
 
+.logo {
+	height: 30%;
+}
+
 .titulo-principal {
 	padding-left: 20px;
 }
