@@ -17,7 +17,6 @@ body {}
 
 .titulo-principal {
 	padding-left: 20px;
-	height: 15vw;
 }
 
 .titulo-centralizado {
@@ -56,9 +55,6 @@ em strong {
 	width: 50%;
 }
 
-
-
-
 header {
 	background: #BBBBBB;
 	padding: 20px 0;
@@ -73,7 +69,6 @@ header {
 	align-items: center;
 	justify-content: space-between;
 }
-
 
 nav li {
 	display: inline;
