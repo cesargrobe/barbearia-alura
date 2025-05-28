@@ -12,7 +12,9 @@ body {
 }
 
 .logo {
-	display: block;
+	display: flex;
+    justify-content: space-between;
+    align-items: center;
 }
 
 .titulo-principal {
