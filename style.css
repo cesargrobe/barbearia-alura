@@ -12,7 +12,7 @@ body {
 }
 
 .logo {
-	height: 30%;
+	height: 30vm;
 }
 
 .titulo-principal {
@@ -44,7 +44,7 @@ em strong {
 	padding: 20px;
 }
 
-ul {
+.beneficios ul {
 	display: inline-block;
 	vertical-align: top;
 	width: 20%;
@@ -54,6 +54,9 @@ ul {
 .imagembeneficios {
 	width: 50%;
 }
+
+
+
 
 header {
     background: #BBBBBB;
