@@ -12,11 +12,12 @@ body {
 }
 
 .logo {
-	height: 30vm;
+	display: block;
 }
 
 .titulo-principal {
 	padding-left: 20px;
+	height: 30vm;
 }
 
 .titulo-centralizado {
